@@ -1,4 +1,4 @@
 # Compile
 ```
-gcc *.c -o led
+gcc *.c -o led -l wiringPi
 ```
